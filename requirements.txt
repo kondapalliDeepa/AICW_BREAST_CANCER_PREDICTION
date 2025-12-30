@@ -1,0 +1,9 @@
+streamlit
+tensorflow
+tensorflow-intel
+pandas
+scikit-learn
+numpy
+scipy
+h5py
+protobuf
